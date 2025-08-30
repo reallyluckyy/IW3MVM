@@ -1,0 +1,7 @@
+.vs
+IW3MVM/bin/*
+IW3MAP/bin/*
+IW3MVM/lib/
+IW3MAP/deps/*
+*.tmp
+IW3MVM_WORKING.zip
